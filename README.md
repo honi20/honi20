@@ -6,10 +6,10 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-7d91d2?style=round-square&logo=Naver&logoColor=white&link=mailto:cyhgg@naver.com)](mailto:cyhgg@naver.com)
 
 <div align="center">
-  <img height="145px" src="https://github-readme-stats.vercel.app/api?username=honi20&show_icons=true&theme=github_dark" />
-  <img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honi20&layout=compact&hide_border=true&theme=github_dark" />
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=honi20&show_icons=true&theme=github_dark" />
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honi20&layout=compact&hide_border=true&theme=github_dark" />
   <a href="https://solved.ac/profile/honi">
-    <img height="145px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=honi" />
+    <img height="135px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=honi" />
   </a>
 </div>
 
