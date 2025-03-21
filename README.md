@@ -6,18 +6,18 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-7d91d2?style=round-square&logo=Naver&logoColor=white&link=mailto:cyhgg@naver.com)](mailto:cyhgg@naver.com)
 
 <div>
-  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=honi20&show_icons=true&theme=github_dark" />
-  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honi20&layout=compact&hide_border=true&theme=github_dark" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=honi20&show_icons=true&theme=github_dark" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honi20&layout=compact&hide_border=true&theme=github_dark" />
   <a href="https://solved.ac/profile/honi">
-    <img height="190px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=honi" />
+    <img height="160px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=honi" />
   </a>
 </div>
 
 <br>
 
-## Skills
+## 💻 Skills
 
-#### 💻 Languages & Frameworks
+### Languages & Frameworks
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,7 +35,7 @@
 
 ---
 
-#### 🗄️ DB
+### DB
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -45,7 +45,7 @@
 
 ---
 
-#### ⚙️ DevOps
+### DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -54,7 +54,7 @@
 
 ---
 
-#### 🧰 Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
